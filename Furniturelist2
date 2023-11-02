@@ -1,0 +1,24 @@
+{
+  "livingRoom": {
+    "furniture": ["Sofa", "Coffee table", "Entertainment center", "Television", "Bookshelves", "Lamps", "Area rug", "Throw pillows", "Accent chairs"],
+    "decor": ["Curtains", "Decorative items", "Dog bed", "Dog toys", "Dog gates"]
+  },
+  "diningRoom": {
+    "furniture": ["Dining table", "Chairs", "Tableware", "Placemats", "Dining room buffet"],
+    "decor": ["Curtains"]
+  },
+  "kitchen": {
+    "appliances": ["Refrigerator", "Oven", "Microwave", "Dishwasher"],
+    "cookware": ["Saucepans", "Frying pans", "Stockpot", "Baking sheets", "Casserole dishes"],
+    "utensils": ["Spatulas", "Ladles", "Can opener", "Cutting boards"]
+  },
+  "bedrooms": {
+    "furniture": ["Bedframe", "Mattress", "Bedside tables", "Dresser", "Closet organizers"],
+    "bedding": ["Sheets", "Pillowcases", "Comforters"],
+    "decor": ["Curtains", "Mirrors"]
+  },
+  "bathrooms": {
+    "fixtures": ["Shower", "Toilet", "Bathroom sink", "Towel racks", "Shower curtain"],
+    "accessories": ["Bath mats", "Shower caddy", "Trash can"]
+  }
+}
