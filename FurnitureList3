@@ -1,0 +1,34 @@
+{
+  "livingRoom": {
+    "furniture": ["Sofa", "Coffee table", "Entertainment center", "Television", "Bookshelves", "Lamps", "Area rug", "Throw pillows", "Accent chairs"],
+    "decor": ["Curtains", "Decorative items", "Dog bed", "Dog toys", "Dog gates"]
+  },
+  "diningRoom": {
+    "furniture": ["Dining table", "Chairs", "Tableware", "Placemats", "Dining room buffet"],
+    "decor": ["Curtains"]
+  },
+  "kitchen": {
+    "appliances": ["Refrigerator", "Oven", "Microwave", "Dishwasher"],
+    "cookware": ["Saucepans with lids", "Frying pans or skillets", "Stockpot or Dutch oven", "Baking sheets and pans", "Casserole dishes"],
+    "utensils": ["Spatulas", "Ladles", "Can opener", "Cutting boards", "Mixing bowls", "Cutlery", "Steak knives", "Serving utensils", "Salad serving set", "Butter knives", "Soup spoons", "Dessert spoons", "Bread plates", "Salt and pepper shakers", "Sugar bowl and creamer set", "Tablecloth", "Napkins", "Trivets"],
+    "smallAppliances": ["Hand Blender", "Can Opener", "Food Processor", "Coffee Maker", "Toaster", "Blender", "Electric Kettle", "Stand Mixer", "Rice Cooker", "Slow Cooker", "Juicer", "Waffle Maker", "Panini Press", "Air Fryer", "Microwave Oven", "Ice Cream Maker", "Food Dehydrator"]
+    },
+  "bedrooms": {
+    "furniture": ["Bedframe", "Mattress", "Bedside tables", "Dresser", "Closet organizers"],
+    "bedding": ["Sheets", "Pillowcases", "Comforters"],
+    "decor": ["Curtains", "Mirrors"]
+  },
+  "bathrooms": {
+    "fixtures": ["Shower", "Toilet", "Bathroom sink", "Towel racks", "Shower curtain"],
+    "accessories": ["Bath mats", "Shower caddy", "Trash can"]
+  },
+    "laundryRoom": {
+      "appliances": ["Washer", "Dryer"],
+      "supplies": ["Laundry baskets", "Iron and ironing board", "Laundry detergent"]
+    },
+    "yard": {
+      "furniture": ["Outdoor furniture", "Barbecue grill"],
+      "tools": ["Garden tools", "Lawn mower", "Watering can"],
+      "pets": ["Dog kennel", "Dog-friendly plants"]
+    }
+}
